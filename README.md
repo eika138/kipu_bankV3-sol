@@ -6,7 +6,7 @@
 ![Uniswap](https://img.shields.io/badge/Uniswap-V2-FF007A?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-## 📋 Tabla de Contenidos
+##  Tabla de Contenidos
 - [Descripción General](#descripción-general)
 - [Mejoras Implementadas desde V2](#mejoras-implementadas-desde-v2)
 - [Arquitectura y Decisiones de Diseño](#arquitectura-y-decisiones-de-diseño)
